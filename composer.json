@@ -30,7 +30,8 @@
     "johnpbloch/wordpress": "4.7.5",
     "oscarotero/env": "^1.0",
     "roots/wp-password-bcrypt": "1.0.0",
-    "wpackagist-plugin/simple-page-ordering": "*"
+    "wpackagist-plugin/simple-page-ordering": "*",
+    "roots/soil": "3.7.1"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^2.5.1"
