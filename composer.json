@@ -31,6 +31,7 @@
     "oscarotero/env": "^1.0",
     "roots/wp-password-bcrypt": "1.0.0",
     "wpackagist-plugin/simple-page-ordering": "*",
+    "wpackagist-plugin/really-simple-ssl": "*",
     "roots/soil": "3.7.1",
     "ilab/ilab-media-tools": "dev-master"
   },
