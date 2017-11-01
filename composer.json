@@ -32,7 +32,7 @@
     "roots/wp-password-bcrypt": "1.0.0",
     "wpackagist-plugin/simple-page-ordering": "*",
     "wpackagist-plugin/really-simple-ssl": "*",
-    "wpackagist-plugin/autodescription": "2.9.0",
+    "wpackagist-plugin/autodescription": "*",
     "roots/soil": "3.7.1",
     "ilab/ilab-media-tools": "dev-master"
   },
